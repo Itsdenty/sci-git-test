@@ -4,7 +4,6 @@ def firstAlgo():
     my_string = "I am developing something much awaited, something the whole world will enjoy so we can all have a wonderful good time"
     new_string = my_string.split(" ")
     previous_length = 0
-    test = "my test"
     course = "sci programming course"
     highest = ""
     for current_string in new_string:
